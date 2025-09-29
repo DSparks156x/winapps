@@ -1,0 +1,17 @@
+# GNOME shortcut name
+NAME="Paint"
+
+# Used for descriptions and window class
+FULL_NAME="Microsoft Paint"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files\WindowsApps\Microsoft.Paint_11.2408.30.0_x64__8wekyb3d8bbwe\PaintApp\mspaint.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Windows"
+
+# GNOME mimetypes
+MIME_TYPES=""
+
+# System Icon
+ICON="Paint"
